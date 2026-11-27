@@ -25,6 +25,10 @@ See each solution directory's README for how to run that day's solution.
 | [Day 11](https://adventofcode.com/2026/day/11) | [11](./day_11)       | TBD          |
 | [Day 12](https://adventofcode.com/2026/day/12) | [12](./day_12)       | TBD          |
 
+Note that as usual, [as per Advent of Code guidelines](https://adventofcode.com/2026/about#faq_copying),
+I won't be publishing my personal inputs, just the public ones that come as part of
+the problems themselves or custom test inputs.
+
 ## Previous Years
 
 You can find my solutions (if I did them) for previous years here:
